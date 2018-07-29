@@ -1,0 +1,4 @@
+aloha world
+here is input file
+what about write file
+!!!
